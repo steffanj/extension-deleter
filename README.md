@@ -11,7 +11,7 @@ were deleted for which, because of some reason (e.g. an accidental delete or
 faulty camera settings), no RAW files existed anymore. 
 
 ## How to use
-Specify the folder that contains the files that you would like to check. The folder should not
+In the code, specify the folder that contains the files that you would like to check. The folder should not
 contain any sub folders. The script will ask you for the file extensions that you like to use, 
 which you should specify the extensions in the correct capitalization, i.e. in upper case (JPG) 
 or lower case (jpg). The script will show which and how many files exist in both file types, 
